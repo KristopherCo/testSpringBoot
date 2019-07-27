@@ -1,0 +1,27 @@
+{
+  "groups": [
+    {
+      "name": "person",
+      "type": "com.pinyougou.controller.Quick3Controller",
+      "sourceType": "com.pinyougou.controller.Quick3Controller"
+    }
+  ],
+  "properties": [
+    {
+      "name": "person.age",
+      "type": "java.lang.Integer",
+      "sourceType": "com.pinyougou.controller.Quick3Controller"
+    },
+    {
+      "name": "person.name",
+      "type": "java.lang.String",
+      "sourceType": "com.pinyougou.controller.Quick3Controller"
+    },
+    {
+      "name": "person.score",
+      "type": "java.lang.String",
+      "sourceType": "com.pinyougou.controller.Quick3Controller"
+    }
+  ],
+  "hints": []
+}
